@@ -1,0 +1,11 @@
+.DS_Store
+._*
+__MACOSX/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+*.app/
+.build/
+work/

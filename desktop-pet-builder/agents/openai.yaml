@@ -1,0 +1,4 @@
+interface:
+  display_name: "治愈系桌面宠物"
+  short_description: "制作可互动、有性格、会陪伴与提醒休息的桌面宠物，附可复用的 Mac 原生模板"
+  default_prompt: "请用 $desktop-pet-builder 帮我制作属于自己的桌面宠物，包含可爱的形象、性格、互动动作和温柔的休息提醒。"
